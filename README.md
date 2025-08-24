@@ -1,1 +1,8 @@
 # Project8
+Mackenzie Vuong, Software Development I, CEN-3024C
+
+This repository contains a Java class project assignment (COP 3330C) where we used Maven and customized our own web page using Spring Boot. The project allowed me to apply both new and previous knowledge, as it involved Java programming, HTML, and exception handling. The assignment was divided into two main parts: first, installing and connecting Maven with IntelliJ, and second, building a Spring Boot web application to handle form submissions.
+
+The goal of this project was to create a greeting web page where users can enter their student ID, a date, and a custom message. Throughout this project, I worked with Java 17 and Spring Boot 3, used Maven for dependency management, and applied HTML and CSS for page layout and styling. The expected inputs for this application include the student ID, a date (month, day, year), and a custom message. The expected outputs were the submitted data, with the date shown as MM/DD/YYYY, along with error messages for any invalid entries in our own theme. I chose to do a cutesy pink theme.
+
+This project reflects the real challenges software developers face, including troubleshooting errors, editing and changing the code to meet requirements, layouts, etc. The most difficult thing about the project was setting it up with Maven. In the beginning, it was very confusing, and complicated trying to connect Maven with IntelliJ and using my terminal. Working on this project gave me a chance to play around with different technologies, handle project dependencies, and build a web application that’s both functional and personal.
